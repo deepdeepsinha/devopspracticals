@@ -1,0 +1,2 @@
+- name: this is my role
+  debug: msg"this is my first role"
